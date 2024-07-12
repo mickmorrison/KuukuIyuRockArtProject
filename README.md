@@ -3,14 +3,17 @@
 
 ## Overview
 
-This repository contains scripts and data used for the analysis of rock art motifs in the Kaanju Ngaachi Indigenous Protected Area, Cape York Peninsula, Australia. The analysis supports the research presented in the paper:
+This repository contains scripts and data used for the analysis of rock art motifs in the Kaanju Ngaachi Indigenous Protected Area, Cape York Peninsula, Australia. 
+
+The analysis supports the research presented in the paper:
 
 **Title**: Storyscapes: Rock art, personhood and social interaction in the northern Cape York Peninsula, Australia.  
 **Authors**: Michael Morrison, David Claudie, Natasha Marshall, Darlene McNaughton  
 **Date**:  2024  (Under Review)
 **Keywords**: Indigenous archaeology, social interaction, rock Art, personhood, Story, Australia, Cape York Peninsula, Storyscape
 
-## Requirements
+
+## Requirements and acknowledgements.
 
 - R (version 4.0.0 or later)
 - R packages: `data.table`, `dplyr`, `tidyverse`, `officer`, `readxl`, `pivottabler`, `openxlsx`, `basictabler`, `flextable`, `ggplot2`, `FactoMineR`, `factoextra`, `DescTools`, `corrplot`, `ca`, `dummy`, `viridis`, `kableExtra`
