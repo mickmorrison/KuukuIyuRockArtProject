@@ -1,8 +1,4 @@
-<<<<<<< Updated upstream
-## Rock Art Analysis Package (RAAP):  Data, Schema and Scripts for the Formal Analysis of Rock Art Data
-=======
 ## Rock Art Analysis Package (RAAP), v01: Data, Schema and Scripts for the Formal Analysis of Rock Art Data
->>>>>>> Stashed changes
 
 > **Author**: Dr Mick Morrison, University of New England.
 > 
@@ -30,9 +26,9 @@ This repository *does not* include images of rock art or Indigenous heritage pla
 
 Approved images are available in the published paper or via the [Chuulangun Aboriginal Corporation](https://www.kaanjungaachi.com.au/ChuulangunAboriginalCorporation.htm "Chuulangun Aboriginal Corporation") associated media releases.
 
-![Example output of RAAP](images/Figure04.png){width="525"}
+![Example output of RAAP](images/Figure04.png)
 
-![Example of correspondence analysis on motif data](images/Figure05.png){width="431"}
+![Example of correspondence analysis on motif data](images/Figure05.png)
 
 ## Requirements
 This is a basic to intermediate package of tools and you will need:
@@ -43,15 +39,7 @@ This is a basic to intermediate package of tools and you will need:
 - RStudio (not essential, and another R IDE should be fine)
 - R packages: `data.table`, `dplyr`, `tidyverse`, `officer`, `readxl`, `pivottabler`, `openxlsx`, `basictabler`, `flextable`, `ggplot2`, `FactoMineR`, `factoextra`, `DescTools`, `corrplot`, `ca`, `dummy`, `viridis`, `kableExtra` These are listed in the relevant scripts and are only required if you are trying to run a script from this release. Some can take time to get working correctly, as dependencies will need to be installed either as an R package, or onto your system generally.
 
-<<<<<<< Updated upstream
-## Scripts 
-=======
--   R (version 4.0.0 or later)
-
--   R packages: `data.table`, `dplyr`, `tidyverse`, `officer`, `readxl`, `pivottabler`, `openxlsx`, `basictabler`, `flextable`, `ggplot2`, `FactoMineR`, `factoextra`, `DescTools`, `corrplot`, `ca`, `dummy`, `viridis`, `kableExtra` These are listed in the relevant scripts and are not relevant unless you are trying to run a script.
-
 ## Scripts
->>>>>>> Stashed changes
 
 ### `script01_datacleaning.R`
 
@@ -79,11 +67,8 @@ The data provided is a modified version produced by co-authors Marshall and Morr
 
 Marshall (2018) produced the following tables of values used to classify identified motifs. These can be used to create a simple database if required. See the published paper or Marshall (2018) for further details. 
 
-<<<<<<< Updated upstream
+
 ## Usage 
-=======
-## Usage
->>>>>>> Stashed changes
 
 1.  Clone the RAAP repo to your computer. Cloning or forking from Github is recommended, and for the simplest method use Github Desktop. You can also download the latest release as a Zip.
 2.  Create a new project within RStudio, and save to the RAAP directory.
