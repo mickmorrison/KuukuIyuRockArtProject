@@ -1,44 +1,40 @@
-# Analysis of Motif Data, Kaanju Ngaachi Indigenous Protected Area
-# This script will call clean data from the 01-DataCleaning.R script, and produce
-# a series of Figures to accompany the manuscript. Note images created
-# Mick Morrison,  10 Oct 2022
+# Rock Art Analysis Package #3 -- script to create figures of main data and perform correspondence analysis
+# Mick Morrison,  13 July, 20214
 
-# Clear the Global Environment if needed
+# Environment and requirements
+
+# Clear the Global Environment from previous session
+
 rm(list = ls())
+
+# Set the Working Directory
+
+setwd(" SET ")
+
 
 # Load the necessary packages
 
 library(ggplot2)
 library(dplyr)
 library(tidyr)
-library(grid)
-library(gridExtra)
 library(FactoMineR)
 library(factoextra)
-library(DescTools)
 library(corrplot)
 library(ca)
 library(officer)
-library(dummy)
 library(viridis)
 library(tidyverse)
 library(kableExtra)
-library(viridis)
-library(tidyverse)
 
 
 # load cleaned data from the 01-DataCleaning script -----------------------
 data <- readRDS("data/cleandata")
-paintings <- readRDS("data/paintings")
+paint <- readRDS("data/paintings")
+engr <- readRDS("data/engravings")
 
-#subset the motifs per technique
-engr <- data %>% filter(General.Technique == "Engraving")
-paint <- data %>% filter(General.Technique == "Painting")
+# Figure 4 - Summary of Specific Motifs according to General Tech and Genera Type --------
 
-# Figure 5 - Summary of Specific Motifs according to General Tech and Genera Type --------
-
-Figure04 <- ggplot(data = data, 
-                   mapping = aes(x = General.Technique, y = ..count.., fill = General.Type)) +
+Figure04 <- ggplot(data = data, mapping = aes(x = General.Technique, y = ..count.., fill = General.Type)) +
   geom_bar(stat = "count", width = 0.95) +  # Adjust the width here
   labs(y = "Count", x = "General Technique", fill = "General Type") +
   scale_fill_viridis(discrete = TRUE, option = "H") +
@@ -50,9 +46,9 @@ Figure04 <- ggplot(data = data,
 print(Figure04)
 
 # Save to file with specified dimensions and no spaces between bars
-ggsave("Figure04.png",
+ggsave("Figure04_SpecificMotifs_byGenTechnique_GenType.png",
        plot = last_plot(),
-       path = "publication/",
+       path = "outputs/",
        width = 8, height = 5, units = "in")
 
 # Chi Square test for correspondence analysis ------------------------------------
@@ -144,7 +140,7 @@ ChiTable <- summary_table %>%
 ChiTable # generates HTML table of Chi data summary
 
 
-#NOTe this may need to move to tables/app script
+#NOTe this may need to move to tables/app script -- though not used in the published paper
 
 # Now to complete  Correspondence Analysis
 # Omitting the 'Engravings' General Type class now as not a significant relationship
@@ -196,9 +192,9 @@ fviz_ca_biplot(
     axis.text = element_text(size = 10),
     legend.text = element_text(size = 10)
   )
-ggsave("Figure05.png",
+ggsave("Figure05_contribution_biplot_general_motif_type.png",
        plot = last_plot(),
-       path = "publication/",
+       path = "outputs/",
        width = 8,height = 5, units = "in")
 
 # Figure 7: Contribution biplot, Specific Motif Type
@@ -219,10 +215,11 @@ fviz_ca_biplot(
     legend.text = element_text(size = 10)
   )
 
-ggsave("Figure07.png",
+ggsave("Figure07_contribution_biplot_specific_motif_type.png",
        plot = last_plot(),
-       path = "publication/",
+       path = "outputs/",
        width = 8.27,height = 5, units = "in")
 
+# End of script
 
 
