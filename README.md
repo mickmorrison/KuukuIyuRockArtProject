@@ -8,15 +8,7 @@ This repository contains data, schema and scripts for analysing rock art motifs 
 
 The goal of this repository is to enable others to reproduce the tables and figures used in our research, or to use our data, schema or scripts in other work. Please acknowledge this. You can cite the RAAP as:
 
-> Morrison, M., Marshall, N., & D. Claudie (2024) Rock Art Analysis Package (RAAP): Data, Schema and Scripts for the Formal Analysis of Rock Art Data [Data set]. In *Australian Archaeology* #### v.01. <https://doi.org/10.5281/zenodo.12730323>
-
-The RAAP was developed via the research project presented in the following paper. If you use these data or schema, please cite and acknowledge this work:
-
-> Morrison, M., Claudie, D., Marshall, N., and D. McNaughton (Under Review) Storyscapes: Rock art, personhood and social interaction in the northern Cape York Peninsula, Australia. *Australian Archaeology*.
->
-> *Abstract*
->
-> This study analyses rock art assemblages and late Holocene social interaction in Cape York Peninsula’s (CYP) northern highlands, north-eastern Australia, from the vantage point of Kuuku I’yu (Northern Kaanju) Pama (Aboriginal People from CYP) homelands. Previous research has documented complex social networks across northeastern Australia and southern Papua New Guinea, highlighting long-distance alliances, exchanges, and kinship relations that connected island, coastal, and inland communities. However, local and interregional interactions remain under-researched, especially between coastal and inland communities on CYP’s mainland. Drawing on analysis of ethnographic materials, it is shown that Pama personhood, social identity, and social interaction in the past were underpinned by totemic, moiety, and kinship relations, as well as Stories—shared local and regional cosmogonies and cosmologies. Using digital methods centred on photogrammetry, here we analysed nearly 300 rock art motifs. Results reveal place-based variations in motifs indicating historical social distinctions. The study identifies potential links between rock art motifs, personhood, totemic beings, and major Stories. We draw on the concept of Storyscape as a culturally informed theoretical framework for understanding histories of social interaction and varied regional and local cultural influences on rock art. This reflects Indigenous ontologies of embodied relatedness, which potentially underpin recent and potentially late Holocene social interaction and material exchange spheres on the CYP mainland.
+> Morrison, M., Marshall, N., & D. Claudie (2024) Rock Art Analysis Package (RAAP): Data, Schema and Scripts for the Formal Analysis of Rock Art Data [Data set]. 
 
 ## Ethics and Indigenous Cultural and Intellectual Property
 
