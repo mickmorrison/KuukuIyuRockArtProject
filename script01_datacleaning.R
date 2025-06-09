@@ -1,17 +1,7 @@
 # Rock Art Analysis Package -- script to clean raw / original dataset
-# Mick Morrison,  22 Feb. 2023
+# Mick Morrison,  10 June 2025 updated
 
 # Environment and requirements
-
-# Clear the Global Environment from previous session
-
-rm(list = ls())
-
-# Set the Working Directory
-
-setwd(" SET ")
-
-
 # Load the required packages
 
 library(data.table)
@@ -20,17 +10,19 @@ library(tidyverse)
 library(officer)
 library(readxl)
 
+path <- "repo/KuukuIyuRockArtProject/data/"
+
 # Read in and view the data
 
-cleandata <- fread("motifdata2018v03.csv")
+cleandata <- fread(paste0(path,"Marshall2018v03.csv"))
 
 
 # Read in the schema
 
 # These lists can be used to classify images of motifs.
-category <- fread("motif_category.csv")
-contrast <- fread("motif_contrast.csv")
-techniques <- fread("motif_techniques.csv")
+category <- fread(paste0(path,"motif_category.csv"))
+contrast <- fread(paste0(path,"motif_contrast.csv"))
+techniques <- fread(paste0(path,"motif_techniques.csv"))
 
 # Now that data is loaded, perform some basic editing
 
