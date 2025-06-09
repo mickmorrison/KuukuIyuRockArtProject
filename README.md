@@ -8,13 +8,9 @@ This repository contains data, schema and scripts for analysing rock art motifs 
 
 The goal of this repository is to enable others to reproduce the tables and figures used in our research, or to use our data, schema or scripts in other work. Please acknowledge this. You can cite the RAAP as:
 
-<<<<<<< Updated upstream
-> Morrison, M., Marshall, N., & D. Claudie (2024) Rock Art Analysis Package (RAAP): Data, Schema and Scripts for the Formal Analysis of Rock Art Data [Data set]. 
-=======
 > Morrison, M., Marshall, N., & D. Claudie (2024) Rock Art Analysis Package (RAAP): Data, Schema and Scripts for the Formal Analysis of Rock Art Data \[Data set\]. V.01. <https://doi.org/10.5281/zenodo.12730323>.
 
 The RAAP was developed via the research project presented in a forthcoming journal paper. Details to follow.
->>>>>>> Stashed changes
 
 ## Ethics and Indigenous Cultural and Intellectual Property
 
