@@ -1,0 +1,21 @@
+# R artifacts (non-reproducible)
+.Rhistory
+.RData
+.Rproj.user
+
+# Quarto outputs (rendered files)
+*.html
+*.pdf
+/.quarto/
+**/*.quarto_ipynb
+
+# renv (exclude cache, include lock file)
+renv/cache/
+renv/temp/
+
+# Rendered output folder (if using one)
+docs/
+
+# System files
+.DS_Store
+Thumbs.db
