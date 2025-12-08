@@ -1,0 +1,83 @@
+---
+title: "Reproducibility in rock art research: A case study from Kuuku I'yu Country, north east Australia"
+
+author:
+  - name: "Michael Morrison"
+    orcid: https://orcid.org/0000-0003-3971-7829
+    email: mick.morrison@une.edu.au
+    affiliations:
+      - name: University of New England
+        ror: https://ror.org/04r659a56
+    corresponding: true
+    
+abstract: |
+  A concise summary (~100 words) describing what the data covers, how it was collected, how it is stored, and its reuse potential.
+
+keywords:
+  - keyword one
+  - keyword two
+  - keyword three
+  - keyword four
+  - keyword five
+
+date: last-modified
+
+# Data paper specific metadata
+spatial-coverage:
+  place: "Cape York Peninsula, Queensland, Australia"
+  coordinates:
+    north: -12.893
+    south: -13.343
+    east: 143.231
+    west: 142.769
+
+temporal-coverage:
+  start: "01/12/2014"
+  end: "9/12/2025"
+
+# Funding information
+funding: "This research was funded by [Funder Name], Grant Number [XXX]"
+
+# Data availability
+data-availability: |
+  The dataset is openly available at Zenodo: [Title]. DOI: https://doi.org/10.5281/zenodo.XXXXXX. Licensed under CC0 1.0 Universal.
+
+project:
+  type: default
+  output-dir: docs
+
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    toc-title: "Contents"
+    self-contained: true
+    theme: flatly
+    number-sections: false
+    
+  pdf:
+    documentclass: article
+    fontsize: 12pt
+    mainfont: "Times New Roman"
+    linestretch: 1.5
+    toc: false
+    colorlinks: true
+    pdf-engine: xelatex
+    number-sections: false
+    geometry:
+      - margin=1in
+    
+  docx:
+    toc: false
+    reference-doc: joad-template.docx  # if you create one
+    number-sections: false
+
+# Citation and bibliography
+csl: apa.csl  # APA 7th edition - keep this
+bibliography: references.bib
+link-citations: true
+lang: en-AU
+
+# License (required for open data)
+license: "CC BY 4.0"
+---
