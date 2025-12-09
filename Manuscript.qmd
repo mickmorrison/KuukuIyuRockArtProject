@@ -1,45 +1,124 @@
 ---
 title: "Reproducibility in rock art research: A case study from Kuuku I'yu Country, north east Australia"
-
-author:
-  - name: "Michael Morrison"
-    orcid: 0000-0003-3971-7829
-    email: mick.morrison@une.edu.au
-    affiliations:
-      - name: University of New England
-        ror: https://ror.org/04r659a56
-    corresponding: true
-    
-abstract: |
-  A concise summary (~100 words) describing what the data covers, how it was collected, how it is stored, and its reuse potential.
-
-keywords:
-  - keyword one
-  - keyword two
-  - keyword three
-  - keyword four
-  - keyword five
-
 date: last-modified
-
-spatial-coverage:
-  place: "Cape York Peninsula, Queensland, Australia"
-  coordinates:
-    north: -12.893
-    south: -13.343
-    east: 143.231
-    west: 142.769
-
-temporal-coverage:
-  start: "01/12/2014"
-  end: "09/12/2025"
-
-funding: "This research was funded by the Chuulangun Aboriginal Corporation (2014-2015) and more recently by the Australian Research Council Linkage Scheme (LP170900050)"
-
-data-availability: |
-  The dataset is openly available at Zenodo: [Title]. DOI: https://doi.org/10.5281/zenodo.XXXXXX. Licensed under CC0 1.0 Universal.
-
-license: "CC BY 4.0"
 ---
 
-1\) Overview
+# (1) Overview
+
+## Authors
+
+**Michael Morrison** (corresponding author)\
+University of New England\
+Email: mick.morrison\@une.edu.au\
+ORCID: [0000-0003-3971-7829](https://orcid.org/0000-0003-3971-7829)\
+ROR: https://ror.org/04r659a56
+
+## Abstract
+
+A concise summary (\~100 words) describing what the data covers, how it was collected, how it is stored, and its reuse potential.
+
+## Keywords
+
+Indigenous Rock Art, Reproducibility; Cape York Peninsula; Australia; Kuuku Iyu Peoples
+
+## Spatial Coverage
+
+**Place:** Kuuku I'yu Ngaachi, northern Cape York Peninsula, Queensland, Australia
+
+**Coordinates:** - North: -12.893 - South: -13.343 - East: 143.231 - West: 142.769
+
+## Temporal Coverage
+
+**Start date:** 01/12/2014\
+**End date:** 09/12/2025
+
+## Funding Statement
+
+This research was funded by the Chuulangun Aboriginal Corporation (2014-2015) and more recently by the Australian Research Council Linkage Scheme (LP170900050).
+
+## Data Availability
+
+The dataset is openly available at Zenodo: \[Title\]. DOI: https://doi.org/10.5281/zenodo.XXXXXX. Licensed under CC0 1.0 Universal.
+
+## License
+
+CHECK
+
+# 2) Methods
+
+Describe the methods used to create the dataset (ca. 100-200 words), including the following sub-headings:
+
+***Steps***
+
+The series of procedures followed to produce the dataset. This should include any source data used, as well as software and instrumentation involved.
+
+***Sampling strategy***
+
+If relevant, please outline the sampling strategy used to produce the data.
+
+***Quality Control***
+
+Please list the methods used for quality control in the production of the data.
+
+***Constraints***
+
+Please list any constraints involved in data production.
+
+# **(3) Dataset description**
+
+***Object name***
+
+Typically the name of the file or file set in the repository.
+
+***Data type***
+
+lease enter one or more from primary data, secondary data, processed data, interpretation of data, or final report.
+
+***Format names and versions***
+
+E.g. ASCII, CSV, Autocad, EPS, JPEG, Excel, SQL, etc.
+
+***Creation dates***
+
+The start and end dates of when the data was created (dd/mm/yyyy).
+
+*Dataset Creators*
+
+Please list anyone who helped to create the database (who may also not be an author of the data paper), including their roles and affiliations.
+
+***Language***
+
+Language.
+
+***License**\
+* The open license under which the data has been deposited (e.g. CC0).
+
+***Repository location***
+
+If already available, please include a permanent identifier such as a DOI that points to the online location of the dataset.
+
+***Publication date***
+
+If already known, the date the dataset was published in the repository (dd/mm/yyyy).
+
+# (4) Reuse potential
+
+(ca. 50-200 words)
+
+Please describe the ways in which your data could be reused by other researchers both within and outside of your field. This might for example include aggregation, further analysis, reference, validation, teaching or collaboration.
+
+Acknowledgements
+
+Please add any relevant acknowledgements to anyone else who supported the project in which the data was created, but did not work directly on the data itself.
+
+Funding statement
+
+If the data resulted from funded research please give the funder and grant number.
+
+# **Ethics statement**
+
+This research was undertaken with and for Kuuku I'yu Custodians namely the late Elder, Mr D.J Claudie, who provided informed consent to work on areas of his families Ngaachi (homeland). A nuanced and extensive ethics policy for this study was adopted that drew heavily upon the\@aiatsisAIATSISCodeEthics2020 Code of Ethics and \@nationalhealthandmedicalresearchcouncilAustralianCodeResponsible2018 . Formal institutional approval for this study was provided by the University of New England Human Research Ethics Committee, approval number HE20_219 (2020-2026).
+
+# **Competing interests**
+
+No competing interests are declared here.
