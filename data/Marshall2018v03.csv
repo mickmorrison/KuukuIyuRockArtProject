@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Site,Panel,ID,MotifID,GeneralTechnique,Specific_technique,Colour primary,Category,General Type,Specific Type,Contrast state,Superimposition/Reiterative practice
 CH01,1,1,CH01-1-1,Petroglyph,Indeterminate,Not applicable,Non-Figurative,Geometric,Line Series,3,No
 CH01,1,2,CH01-1-2,Petroglyph,Indeterminate,Not applicable,Non-Figurative,Geometric,Horizontal pit series,3,No
@@ -259,4 +260,267 @@ WT01,5,257,WT01-5-257,Pictograph,Outline,Brown,Non-Figurative,Geometric,Complex 
 WT01,5,258,WT01-5-258,Pictograph,Infilled or solid,Brown,Non-Figurative,Geometric,Star,,No
 CH02,2,259,CH02-2-259,Pictograph,Infilled or solid,Brown,Figurative,Zoomorph,Non-diagnostic,,Yes
 CH02,2,260,CH02-2-260,Pictograph,Infilled or solid,Brown,Figurative,Human,Non-diagnostic,,Yes
+=======
+Site,Panel,ID,MotifID,GeneralTechnique,Specific_technique,Colour primary,Category,General Type,Specific Type,Contrast state,Superimposition/Reiterative practice
+CH01,1,1,CH01-1-1,Petroglyph,Indeterminate,Not applicable,Non-Figurative,Geometric,Line Series,3,No
+CH01,1,2,CH01-1-2,Petroglyph,Indeterminate,Not applicable,Non-Figurative,Geometric,Horizontal pit series,3,No
+CH01,1,3,CH01-1-3,Petroglyph,Indeterminate,Brown,Non-Figurative,Geometric,Line Series,2,No
+CH01,1,4,CH01-1-4,Petroglyph,Indeterminate,Not applicable,Non-Figurative,Geometric,Line Series,3,No
+CH01,1,5,CH01-1-5,Pictograph,Infilled or solid,Red,Non-diagnostic,Non-diagnostic,Non-diagnostic,,No
+CH01,1,6,CH01-1-6,Petroglyph,Indeterminate,Red,Non-Figurative,Geometric,Line Series,2,Yes
+CH01,1,7,CH01-1-7,Petroglyph,Indeterminate,Not applicable,Non-Figurative,Geometric,Line Series,3,Yes
+CH01,1,8,CH01-1-8,Pictograph,Infilled or solid,Red,Figurative,Animal,Lizard,,Yes
+CH01,1,9,CH01-1-9,Petroglyph,Indeterminate,Red,Non-Figurative,Geometric,Line Series,2,Yes
+CH01,1,10,CH01-1-10,Petroglyph,Indeterminate,Not applicable,Non-Figurative,Geometric,Crescent,2,No
+CH01,1,11,CH01-1-11,Petroglyph,Indeterminate,Not applicable,Non-Figurative,Geometric,Line Series,2,Yes
+CH01,1,12,CH01-1-12,Petroglyph,Indeterminate,Not applicable,Non-Figurative,Geometric,Crescent,3,No
+CH01,1,13,CH01-1-13,Petroglyph,Indeterminate,Not applicable,Non-Figurative,Geometric,Non-diagnostic,3,No
+CH01,2,14,CH01-2-14,Pictograph,Outline,Red,Track,Tracks,Bird track,,Yes
+CH01,2,15,CH01-2-15,Pictograph,Outline,Red,Non-Figurative,Geometric,Crescent,,Yes
+CH01,2,16,CH01-2-16,Pictograph,Outline,Red,Track,Tracks,Bird track,,Yes
+CH01,2,17,CH01-2-17,Pictograph,Outline,Red,Track,Tracks,Bird track,,Yes
+CH01,2,18,CH01-2-18,Pictograph,Outline,Red,Non-Figurative,Geometric,Single circle,,Yes
+CH01,2,19,CH01-2-19,Pictograph,Outline,Red,Figurative,Non-diagnostic,Non-diagnostic,,Yes
+CH01,3,20,CH01-3-20,Petroglyph,Engraved,Red,Non-Figurative,Geometric,Tool sharpening,1,Yes
+CH01,3,21,CH01-3-21,Pictograph,Outline,Red,Non-Figurative,Geometric,Line along natural geometry,,No
+CH01,3,22,CH01-3-22,Pictograph,Infilled or solid,Brown,Non-Figurative,Geometric,Line Series,,No
+CH01,3,23,CH01-3-23,Pictograph,Outline,Brown,Non-Figurative,Geometric,Line along natural geometry,,No
+CH01,3,24,CH01-3-24,Pictograph,Infilled or solid,Red,Non-Figurative,Geometric,Line Series,,No
+CH01,3,25,CH01-3-25,Petroglyph,Pecked,Red,Non-Figurative,Geometric,Horizontal pit series,3,Yes
+CH01,3,26,CH01-3-26,Petroglyph,Pecked,Not applicable,Track,Tracks,Bird track,2,No
+CH01,3,27,CH01-3-27,Pictograph,Outline,Red,Non-diagnostic,Non-diagnostic,Non-diagnostic,,Yes
+CH01,3,28,CH01-3-28,Pictograph,Outline,Red,Non-Figurative,Geometric,Line horizontal,,Yes
+CH01,3,29,CH01-3-29,Petroglyph,Pecked,Not applicable,Track,Tracks,Bird track,2,Yes
+CH01,3,30,CH01-3-30,Petroglyph,Pecked,Not applicable,Track,Tracks,Bird track,3,Yes
+CH01,3,31,CH01-3-31,Pictograph,Outline,Red,Non-Figurative,Geometric,Crescent,,Yes
+CH01,3,32,CH01-3-32,Petroglyph,Pecked,Not applicable,Non-Figurative,Geometric,Line Series,2,No
+CH01,3,33,CH01-3-33,Petroglyph,Pecked,Not applicable,Non-Figurative,Geometric,Complex lines,2,Yes
+CH01,3,34,CH01-3-34,Pictograph,Infilled or solid,Red,Non-Figurative,Geometric,Line Series,,No
+CH01,3,35,CH01-3-35,Petroglyph,Outline,Red,Non-Figurative,Geometric,Complex lines,2,Yes
+CH01,3,36,CH01-3-36,Petroglyph,Pecked,Not applicable,Non-Figurative,Geometric,Pit,3,Yes
+CH01,3,37,CH01-3-37,Pictograph,Outline,Brown,Non-Figurative,Geometric,Line along natural geometry,,No
+CH01,3,38,CH01-3-38,Pictograph,Indeterminate,Red,Non-diagnostic,Non-diagnostic,Non-diagnostic,,Yes
+CH02,1,39,CH02-1-39,Pictograph,Outline,Brown,Figurative,Anthropomorph,Anthropomorph,,No
+CH02,1,40,CH02-1-40,Pictograph,Outline,Red,Figurative,Animal,Marine Turtle,,Yes
+CH02,1,41,CH02-1-41,Pictograph,Outline,Brown,Non-Figurative,Geometric,Complex lines,,Yes
+CH02,1,42,CH02-1-42,Pictograph,Outline,Brown,Track,Tracks,Bird track,,Yes
+CH02,1,43,CH02-1-43,Pictograph,Outline,Brown,Figurative,Animal,Marine Turtle,,No
+CH02,1,44,CH02-1-44,Pictograph,Outline,Brown,Figurative,Non-diagnostic,Non-diagnostic,,No
+CH02,1,45,CH02-1-45,Pictograph,Infilled or solid,Brown,Non-Figurative,Geometric,Complex lines,,Yes
+CH02,1,46,CH02-1-46,Pictograph,Outline,Red,Figurative,Non-diagnostic,Non-diagnostic,,Yes
+CH02,1,47,CH02-1-47,Pictograph,Outline,Brown,Figurative,Animal,Marine Turtle,,Yes
+CH02,1,48,CH02-1-48,Pictograph,Infilled or solid,Brown,Figurative,Animal,Freshwater tortoise,,Yes
+CH02,1,49,CH02-1-49,Pictograph,Infilled or solid,Brown,Figurative,Animal,Freshwater tortoise,,Yes
+CH02,1,50,CH02-1-50,Pictograph,Outline,Brown,Figurative,Animal,Marine Turtle,,Yes
+CH02,1,51,CH02-1-51,Pictograph,Outline,Brown,Figurative,Animal,Marine Turtle,,No
+CH02,1,52,CH02-1-52,Pictograph,Infilled or solid,Brown,Figurative,Zoomorph,Zoomorph,,Yes
+CH02,1,53,CH02-1-53,Pictograph,Infilled or solid,Brown,Figurative,Animal,Lizard,,Yes
+CH02,1,54,CH02-1-54,Pictograph,Infilled or solid,Brown,Figurative,Animal,Lizard,,No
+CH02,1,55,CH02-1-55,Pictograph,Outline,Brown,Non-diagnostic,Non-diagnostic,Non-diagnostic,,Yes
+CH02,1,56,CH02-1-56,Pictograph,Infilled or solid,Brown,Figurative,Human,Man,,Yes
+CH02,2,57,CH02-2-57,Pictograph,Infilled or solid,Brown,Figurative,Anthropomorph,Anthropomorph,,Yes
+CH02,2,58,CH02-2-58,Pictograph,Infilled or solid,Brown,Figurative,Animal,Lizard,,Yes
+CH02,2,59,CH02-2-59,Petroglyph,Pecked,Not applicable,Figurative,Non-diagnostic,Non-diagnostic,3,Yes
+CH02,2,60,CH02-2-60,Petroglyph,Engraved,Yellow,Non-Figurative,Geometric,Stacked line series,3,Yes
+CH02,2,61,CH02-2-61,Petroglyph,Engraved,Not applicable,Track,Tracks,Bird track,4,Yes
+CH02,2,62,CH02-2-62,Pictograph,Outline,Yellow,Non-Figurative,Geometric,Line along natural geometry,,No
+CH02,2,63,CH02-2-63,Pictograph,Infilled or solid,Brown,Non-Figurative,Geometric,Single circle,,No
+CH02,2,64,CH02-2-64,Pictograph,Infilled or solid,Brown,Figurative,Human,Man,,Yes
+CH02,2,65,CH02-2-65,Pictograph,Infilled or solid,Brown,Figurative,Human,Human,,Yes
+CH02,2,66,CH02-2-66,Pictograph,Outline,Brown,Figurative,Human,Human,,No
+CH02,2,67,CH02-2-67,Pictograph,Infilled or solid,Brown,Non-Figurative,Geometric,Single circle,,Yes
+CH02,2,68,CH02-2-68,Pictograph,Outline,Brown,Figurative,Human,Human,,No
+CH02,2,69,CH02-2-69,Pictograph,Infilled or solid,Brown,Non-Figurative,Geometric,Line undulating,,Yes
+CH02,2,70,CH02-2-70,Pictograph,Infilled or solid,Brown,Figurative,Human,Human,,Yes
+CH02,2,71,CH02-2-71,Pictograph,Infilled or solid,Brown,Figurative,Human,Human,,Yes
+CH02,2,72,CH02-2-72,Pictograph,Infilled or solid,Brown,Figurative,Animal,Dog,,Yes
+CH02,2,73,CH02-2-73,Pictograph,Outline,Brown,Non-Figurative,Geometric,Single circle,,Yes
+CH02,2,74,CH02-2-74,Pictograph,Infilled or solid,Brown,Figurative,Human,Human,,Yes
+CH02,2,75,CH02-2-75,Pictograph,Infilled or solid,Brown,Figurative,Human,Human,,Yes
+CH02,2,76,CH02-2-76,Petroglyph,Engraved,Brown,Track,Tracks,Bird track,3,Yes
+CH02,2,77,CH02-2-77,Petroglyph,Engraved,Brown,Track,Tracks,Bird track,4,Yes
+CH02,2,78,CH02-2-78,Pictograph,Indeterminate,Brown,Non-diagnostic,Non-diagnostic,Non-diagnostic,,No
+CH02,2,79,CH02-2-79,Petroglyph,Engraved,Not applicable,Non-Figurative,Geometric,Line Series,2,Yes
+CH02,2,80,CH02-2-80,Petroglyph,Engraved,Brown,Non-Figurative,Geometric,Radiating lines,4,Yes
+CH02,2,81,CH02-2-81,Petroglyph,Pecked,Not applicable,Non-Figurative,Geometric,Horizontal pit series,5,Yes
+CH02,2,82,CH02-2-82,Pictograph,Indeterminate,Brown,Figurative,Non-diagnostic,Non-diagnostic,,Yes
+CH02,2,83,CH02-2-83,Pictograph,Indeterminate,Brown,Figurative,Non-diagnostic,Non-diagnostic,,No
+CH02,2,84,CH02-2-84,Petroglyph,Indeterminate,Not applicable,Non-Figurative,Geometric,Crescent,3,No
+CH02,2,85,CH02-2-85,Petroglyph,Indeterminate,Not applicable,Track,Tracks,Bird track,3,Yes
+CH02,2,86,CH02-2-86,Petroglyph,Engraved,Not applicable,Non-Figurative,Geometric,Complex lines,3,Yes
+CH02,2,87,CH02-2-87,Pictograph,Infilled or solid,Brown,Figurative,Human,Human,,Yes
+CH02,2,88,CH02-2-88,Pictograph,Infilled or solid,Brown,Figurative,Human,Human,,No
+CH02,2,89,CH02-2-89,Petroglyph,Indeterminate,Not applicable,Non-Figurative,Geometric,Complex lines,2,Yes
+CH02,2,90,CH02-2-90,Petroglyph,Engraved,Not applicable,Track,Tracks,Bird track,3,Yes
+CH02,2,91,CH02-2-91,Petroglyph,Engraved,Not applicable,Track,Tracks,Bird track,3,Yes
+CH02,2,92,CH02-2-92,Petroglyph,Indeterminate,Not applicable,Non-Figurative,Geometric,Crescent,3,Yes
+CH02,2,93,CH02-2-93,Pictograph,Outline,Brown,Track,Tracks,Bird track,,Yes
+CH02,2,94,CH02-2-94,Pictograph,Outline,Brown,Track,Tracks,Bird track,,Yes
+CH02,2,95,CH02-2-95,Pictograph,Outline,Brown,Non-Figurative,Geometric,Crescent,,Yes
+CH02,2,96,CH02-2-96,Petroglyph,Engraved,Not applicable,Track,Tracks,Bird track,2,Yes
+CH02,2,97,CH02-2-97,Petroglyph,Engraved,Not applicable,Track,Tracks,Bird track,2,Yes
+CH02,2,98,CH02-2-98,Petroglyph,Engraved,Not applicable,Non-Figurative,Geometric,Complex lines,4,Yes
+CH02,2,99,CH02-2-99,Pictograph,Outline,Brown,Non-Figurative,Geometric,Complex lines,,Yes
+CH02,2,100,CH02-2-100,Pictograph,Outline,Brown,Non-Figurative,Geometric,Complex lines,,Yes
+CH02,2,101,CH02-2-101,Petroglyph,Engraved,Not applicable,Track,Tracks,Bird track,2,Yes
+CH02,2,102,CH02-2-102,Petroglyph,Engraved,Not applicable,Track,Tracks,Bird track,2,Yes
+CH02,3,103,CH02-3-103,Pictograph,Outline,Brown,Figurative,Animal,Marine Turtle,,Yes
+CH02,3,104,CH02-3-104,Pictograph,Infilled or solid,Brown,Figurative,Human,Man,,Yes
+CH02,3,105,CH02-3-105,Pictograph,Infilled or solid,Brown,Non-Figurative,Geometric,Line,,Yes
+CH02,3,106,CH02-3-106,Pictograph,Outline,Brown,Non-Figurative,Geometric,Non-diagnostic,,Yes
+CH02,3,107,CH02-3-107,Pictograph,Infilled or solid,Brown,Figurative,Human,Man,,No
+CH02,3,108,CH02-3-108,Pictograph,Infilled or solid,Brown,Figurative,Human,Human,,Yes
+CH02,3,109,CH02-3-109,Pictograph,Infilled or solid,Brown,Figurative,Human,Human,,Yes
+CH02,3,110,CH02-3-110,Petroglyph,Engraved,Not applicable,Track,Tracks,Bird track,4,Yes
+CH02,3,111,CH02-3-111,Pictograph,Infilled or solid,Brown,Figurative,Human,Human,,No
+CH02,3,112,CH02-3-112,Pictograph,Infilled or solid,Brown,Figurative,Human,Man,,Yes
+CH02,3,113,CH02-3-113,Pictograph,Infilled or solid,Brown,Figurative,Human,Human,,Yes
+CH02,3,114,CH02-3-114,Petroglyph,Engraved,Not applicable,Non-Figurative,Geometric,Line Series,3,Yes
+CH02,3,115,CH02-3-115,Petroglyph,Engraved,Not applicable,Figurative,Contact,Lettering,5,Yes
+CH02,3,116,CH02-3-116,Petroglyph,Engraved,Not applicable,Track,Tracks,Bird track,2,Yes
+CH02,3,117,CH02-3-117,Pictograph,Infilled or solid,Brown,Figurative,Human,Human,,Yes
+CH02,3,118,CH02-3-118,Petroglyph,Engraved,Not applicable,Non-Figurative,Geometric,Complex lines,4,No
+CH02,3,119,CH02-3-119,Pictograph,Infilled or solid,Brown,Figurative,Human,Human,,No
+CH02,3,120,CH02-3-120,Petroglyph,Engraved,Not applicable,Non-Figurative,Geometric,Line,3,No
+CH02,3,121,CH02-3-121,Petroglyph,Engraved,Not applicable,Non-Figurative,Geometric,Single circle,3,No
+CH02,3,122,CH02-3-122,Petroglyph,Engraved,Not applicable,Non-Figurative,Geometric,Line,3,Yes
+CH02,3,123,CH02-3-123,Pictograph,Infilled or solid,Brown,Figurative,Human,Human,,Yes
+CH02,3,124,CH02-3-124,Pictograph,Outline,Brown,Figurative,Animal,Marine Turtle,,Yes
+CH02,3,125,CH02-3-125,Pictograph,Infilled or solid,Brown,Figurative,Human,Human,,Yes
+CH02,3,126,CH02-3-126,Petroglyph,Pecked,Not applicable,Non-Figurative,Geometric,Pit cluster,3,Yes
+CH02,3,127,CH02-3-127,Pictograph,Infilled or solid,Brown,Non-Figurative,Geometric,Crescent,,No
+CH02,3,128,CH02-3-128,Pictograph,Outline,Brown,Figurative,Non-diagnostic,Non-diagnostic,,Yes
+CH02,3,129,CH02-3-129,Pictograph,Infilled or solid,Brown,Figurative,Animal,Macropod,,Yes
+CH02,3,130,CH02-3-130,Pictograph,Outline,Brown,Figurative,Non-diagnostic,Non-diagnostic,,Yes
+CH02,3,131,CH02-3-131,Petroglyph,Engraved,Not applicable,Non-Figurative,Geometric,Line Series,3,Yes
+CH02,3,132,CH02-3-132,Pictograph,Infilled or solid,Brown,Figurative,Human,Human,,Yes
+CH02,3,133,CH02-3-133,Petroglyph,Engraved,Not applicable,Non-Figurative,Geometric,Line Series,4,No
+CH02,3,134,CH02-3-134,Pictograph,Infilled or solid,Brown,Figurative,Human,Human,,Yes
+CH02,2,135,CH02-2-135,Pictograph,Infilled or solid,Brown,Track,Tracks,Bird track,,Yes
+WT01,1c,136,WT01-1c-136,Pictograph,Infilled or solid,Brown,Figurative,Animal,Stingray,,No
+WT01,1b,137,WT01-1b-137,Pictograph,Infilled or solid,Brown,Figurative,Artefact,Non-diagnostic,,No
+WT01,1b,138,WT01-1b-138,Pictograph,Outline,Brown,Non-Figurative,Geometric,Star,,No
+WT01,1b,139,WT01-1b-139,Pictograph,Outline,Brown,Figurative,Animal,Lizard,,Yes
+WT01,1b,140,WT01-1b-140,Pictograph,Outline,Brown,Non-Figurative,Geometric,Non-diagnostic,,Yes
+WT01,1b,141,WT01-1b-141,Pictograph,Infilled or solid,Brown,Non-Figurative,Geometric,Line Series,,No
+WT01,1b,142,WT01-1b-142,Pictograph,Outline,Brown,Non-Figurative,Geometric,Line,,No
+WT01,1b,143,WT01-1b-143,Pictograph,Outline,Brown,Non-Figurative,Geometric,Complex lines,,Yes
+WT01,1b,144,WT01-1b-144,Pictograph,Outline,Brown,Non-Figurative,Geometric,Complex lines,,Yes
+WT01,1b,145,WT01-1b-145,Pictograph,Infilled or solid,Brown,Non-Figurative,Geometric,Line Series,,Yes
+WT01,1b,146,WT01-1b-146,Pictograph,Infilled or solid,Brown,Non-Figurative,Geometric,Line Series,,Yes
+WT01,1b,147,WT01-1b-147,Pictograph,Outline,Brown,Non-Figurative,Geometric,Single circle,,No
+WT01,1b,148,WT01-1b-148,Pictograph,Infilled or solid,Brown,Non-Figurative,Geometric,Line Series,,Yes
+WT01,1b,149,WT01-1b-149,Pictograph,Infilled or solid,Brown,Non-Figurative,Geometric,Stacked line series,,Yes
+WT01,1b,150,WT01-1b-150,Pictograph,Outline,Brown,Track,Tracks,Bird track,,Yes
+WT01,1b,151,WT01-1b-151,Pictograph,Outline,Brown,Track,Tracks,Bird track,,Yes
+WT01,1c,152,WT01-1c-152,Pictograph,Infilled or solid,Brown,Figurative,Human,Man,,No
+WT01,1b,153,WT01-1b-153,Pictograph,Outline,Brown,Figurative,Non-diagnostic,Non-diagnostic,,No
+WT01,1b,154,WT01-1b-154,Pictograph,Infilled or solid,Red,Figurative,Non-diagnostic,Non-diagnostic,,Yes
+WT01,1b,155,WT01-1b-155,Pictograph,Infilled or solid,Brown,Non-Figurative,Geometric,Line Series,,No
+WT01,1b,156,WT01-1b-156,Pictograph,Outline,Brown,Non-Figurative,Geometric,Non-diagnostic,,No
+WT01,1b,157,WT01-1b-157,Pictograph,Infilled or solid,Brown,Non-Figurative,Geometric,Line Series,,No
+WT01,1c,158,WT01-1c-158,Pictograph,Infilled or solid,Brown,Non-diagnostic,Non-diagnostic,Non-diagnostic,,No
+WT01,1c,159,WT01-1c-159,Pictograph,Outline,Brown,Figurative,Non-diagnostic,Non-diagnostic,,No
+WT01,1c,160,WT01-1c-160,Pictograph,Infilled or solid,Brown,Track,Tracks,Bird track,,No
+WT01,1c,161,WT01-1c-161,Pictograph,Outline,Brown,Track,Tracks,Bird track,,No
+WT01,1c,162,WT01-1c-162,Pictograph,Outline,Brown,Track,Tracks,Bird track,,No
+WT01,1a,163,WT01-1a-163,Pictograph,Infilled or solid,Brown,Figurative,Anthropomorph,Anthropomorph,,Yes
+WT01,1a,164,WT01-1a-164,Pictograph,Infilled or solid,Brown,Figurative,Anthropomorph,Anthropomorph,,Yes
+WT01,1a,165,WT01-1a-165,Pictograph,Infilled or solid,Brown,Figurative,Anthropomorph,Anthropomorph,,Yes
+WT01,1a,166,WT01-1a-166,Pictograph,Infilled or solid,Brown,Figurative,Anthropomorph,Anthropomorph,,Yes
+WT01,1a,167,WT01-1a-167,Pictograph,Infilled or solid,Brown,Figurative,Anthropomorph,Anthropomorph,,Yes
+WT01,1a,168,WT01-1a-168,Pictograph,Infilled or solid,Brown,Figurative,Anthropomorph,Anthropomorph,,Yes
+WT01,1a,169,WT01-1a-169,Pictograph,Infilled or solid,Brown,Figurative,Anthropomorph,Anthropomorph,,Yes
+WT01,1a,170,WT01-1a-170,Pictograph,Outline,Brown,Non-Figurative,Geometric,Complex lines,,Yes
+WT01,1a,171,WT01-1a-171,Pictograph,Infilled or solid,Brown,Non-Figurative,Geometric,Dots,,Yes
+WT01,1a,172,WT01-1a-172,Pictograph,Infilled or solid,Brown,Figurative,Non-diagnostic,Non-diagnostic,,Yes
+WT01,1a,173,WT01-1a-173,Pictograph,Infilled or solid,Brown,Non-Figurative,Geometric,Line Series,,Yes
+WT01,1a,174,WT01-1a-174,Pictograph,Indeterminate,Brown,Non-diagnostic,Non-diagnostic,Non-diagnostic,,No
+WT01,1a,175,WT01-1a-175,Pictograph,Indeterminate,Brown,Non-diagnostic,Non-diagnostic,Non-diagnostic,,Yes
+WT01,1a,176,WT01-1a-176,Pictograph,Infilled or solid,Brown,Non-Figurative,Geometric,Dots,,No
+WT01,1a,177,WT01-1a-177,Pictograph,Infilled or solid,Brown,Track,Tracks,Bird track,,Yes
+WT01,1a,178,WT01-1a-178,Pictograph,Infilled or solid,Brown,Non-diagnostic,Non-diagnostic,Non-diagnostic,,Yes
+WT01,1a,179,WT01-1a-179,Pictograph,Infilled or solid,Brown,Non-Figurative,Geometric,Crescent,,No
+WT01,1a,180,WT01-1a-180,Pictograph,Infilled or solid,Brown,Figurative,Human,Human,,No
+WT01,1a,181,WT01-1a-181,Pictograph,Infilled or solid,Brown,Non-Figurative,Geometric,Radiating lines,,Yes
+WT01,1a,182,WT01-1a-182,Pictograph,Outline,Brown,Non-Figurative,Geometric,Line along natural geometry,,Yes
+WT01,1a,183,WT01-1a-183,Pictograph,Infilled or solid,Brown,Non-Figurative,Geometric,Crescent,,No
+WT01,1a,184,WT01-1a-184,Pictograph,Outline,Brown,Non-Figurative,Geometric,Line along natural geometry,,No
+WT01,1a,185,WT01-1a-185,Pictograph,Indeterminate,Brown,Non-diagnostic,Non-diagnostic,Non-diagnostic,,Yes
+WT01,1a,186,WT01-1a-186,Pictograph,Infilled or solid,Brown,Non-Figurative,Geometric,Line Series,,Yes
+WT01,1a,187,WT01-1a-187,Pictograph,Infilled or solid,Brown,Non-Figurative,Geometric,Line Series,,Yes
+WT01,1a,188,WT01-1a-188,Pictograph,Infilled or solid,Brown,Non-Figurative,Geometric,Complex lines,,Yes
+WT01,1a,189,WT01-1a-189,Pictograph,Infilled or solid,Brown,Non-Figurative,Geometric,Dots,,No
+WT01,1a,190,WT01-1a-190,Pictograph,Infilled or solid,Brown,Non-diagnostic,Non-diagnostic,Non-diagnostic,,Yes
+WT01,1a,191,WT01-1a-191,Pictograph,Infilled or solid,Brown,Non-Figurative,Geometric,Radiating lines,,No
+WT01,1a,192,WT01-1a-192,Pictograph,Infilled or solid,Brown,Figurative,Non-diagnostic,Non-diagnostic,,Yes
+WT01,1a,193,WT01-1a-193,Pictograph,Infilled or solid,Brown,Non-Figurative,Geometric,Stacked line series,,Yes
+WT01,1a,194,WT01-1a-194,Pictograph,Infilled or solid,Brown,Non-Figurative,Geometric,Line Series,,No
+WT01,1a,195,WT01-1a-195,Pictograph,Infilled or solid,Brown,Non-Figurative,Geometric,Line,,No
+WT01,1a,196,WT01-1a-196,Pictograph,Infilled or solid,Brown,Non-Figurative,Geometric,Line,,No
+WT01,1a,197,WT01-1a-197,Pictograph,Infilled or solid,Brown,Non-Figurative,Geometric,Line Series,,No
+WT01,1a,198,WT01-1a-198,Pictograph,Infilled or solid,Brown,Non-Figurative,Geometric,Line,,No
+WT01,1a,199,WT01-1a-199,Pictograph,Infilled or solid,Brown,Non-diagnostic,Non-diagnostic,Non-diagnostic,,Yes
+WT01,1c,200,WT01-1c-200,Pictograph,Infilled or solid,Brown,Non-Figurative,Geometric,Line Series,,No
+WT01,1c,201,WT01-1c-201,Pictograph,Infilled or solid,Brown,Non-Figurative,Geometric,Complex lines,,Yes
+WT01,1c,202,WT01-1c-202,Pictograph,Infilled or solid,Brown,Track,Tracks,Bird track,,Yes
+WT01,1c,203,WT01-1c-203,Pictograph,Infilled or solid,Brown,Non-Figurative,Geometric,Line along natural geometry,,No
+WT01,1c,204,WT01-1c-204,Pictograph,Infilled or solid,Brown,Track,Tracks,Bird track,,Yes
+WT01,1c,205,WT01-1c-205,Pictograph,Infilled or solid,Brown,Non-Figurative,Geometric,Crescent,,Yes
+WT01,1c,206,WT01-1c-206,Pictograph,Infilled or solid,Brown,Non-Figurative,Geometric,Line Series,,No
+WT01,1c,207,WT01-1c-207,Pictograph,Infilled or solid,Brown,Non-Figurative,Geometric,Line Series,,Yes
+WT01,2,208,WT01-2-208,Pictograph,Infilled or solid,Brown,Non-Figurative,Geometric,Complex lines,,No
+WT01,2,209,WT01-2-209,Pictograph,Infilled or solid,Brown,Non-diagnostic,Non-diagnostic,Non-diagnostic,,No
+WT01,2,210,WT01-2-210,Pictograph,Infilled or solid,Brown,Non-Figurative,Geometric,Complex lines,,No
+WT01,2,211,WT01-2-211,Pictograph,Infilled or solid,Brown,Non-Figurative,Geometric,Complex lines,,No
+WT01,2,212,WT01-2-212,Pictograph,Outline,Brown,Non-Figurative,Geometric,Complex lines,,No
+WT01,2,213,WT01-2-213,Pictograph,Infilled or solid,Brown,Non-Figurative,Geometric,Complex lines,,No
+WT01,2,214,WT01-2-214,Pictograph,Infilled or solid,Brown,Non-Figurative,Geometric,Line Series,,No
+WT01,2,215,WT01-2-215,Pictograph,Infilled or solid,Brown,Non-Figurative,Geometric,Complex lines,,No
+WT01,2,216,WT01-2-216,Pictograph,Infilled or solid,Brown,Non-Figurative,Geometric,Line Series,,No
+WT01,2,217,WT01-2-217,Pictograph,Infilled or solid,Brown,Track,Tracks,Bird track,,Yes
+WT01,3,218,WT01-3-218,Pictograph,Infilled or solid,Brown,Non-Figurative,Geometric,Complex circle,,Yes
+WT01,3,219,WT01-3-219,Pictograph,Infilled or solid,Brown,Non-Figurative,Geometric,Complex circle,,Yes
+WT01,3,220,WT01-3-220,Pictograph,Infilled or solid,Brown,Non-Figurative,Geometric,Line undulating,,Yes
+WT01,3,221,WT01-3-221,Pictograph,Infilled or solid,Brown,Non-Figurative,Geometric,Line undulating,,Yes
+WT01,3,222,WT01-3-222,Pictograph,Infilled or solid,Brown,Non-Figurative,Geometric,Complex lines,,Yes
+WT01,3,223,WT01-3-223,Pictograph,Infilled or solid,Brown,Non-Figurative,Geometric,Complex lines,,No
+WT01,3,224,WT01-3-224,Pictograph,Infilled or solid,Brown,Non-Figurative,Geometric,Complex lines,,Yes
+WT01,3,225,WT01-3-225,Pictograph,Infilled or solid,Brown,Non-Figurative,Geometric,Line Series,,Yes
+WT01,3,226,WT01-3-226,Pictograph,Infilled or solid,Brown,Non-Figurative,Geometric,Crescent,,Yes
+WT01,3,227,WT01-3-227,Pictograph,Infilled or solid,Brown,Non-Figurative,Geometric,Crescent,,Yes
+WT01,3,228,WT01-3-228,Pictograph,Infilled or solid,Brown,Non-Figurative,Geometric,Line Series,,Yes
+WT01,3,229,WT01-3-229,Pictograph,Infilled or solid,Brown,Non-Figurative,Geometric,Line undulating,,Yes
+WT01,3,230,WT01-3-230,Pictograph,Infilled or solid,Brown,Non-Figurative,Geometric,Complex lines,,No
+WT01,3,231,WT01-3-231,Pictograph,Infilled or solid,Brown,Non-Figurative,Geometric,Complex geometric,,Yes
+WT01,3,232,WT01-3-232,Pictograph,Infilled or solid,Brown,Non-Figurative,Geometric,Complex geometric,,Yes
+WT01,3,233,WT01-3-233,Pictograph,Infilled or solid,Brown,Non-diagnostic,Non-diagnostic,Non-diagnostic,,No
+WT01,4,234,WT01-4-234,Pictograph,Infilled or solid,Brown,Figurative,Human,Deceased human,,No
+WT01,4,235,WT01-4-235,Pictograph,Infilled or solid,Brown,Non-Figurative,Geometric,Complex geometric,,Yes
+WT01,4,236,WT01-4-236,Pictograph,Infilled or solid,Brown,Non-Figurative,Geometric,Line Series,,No
+WT01,4,237,WT01-4-237,Pictograph,Infilled or solid,Brown,Non-diagnostic,Non-diagnostic,Non-diagnostic,,Yes
+WT01,4,238,WT01-4-238,Petroglyph,Pecked,Not applicable,Non-Figurative,Geometric,Complex lines,1,No
+WT01,4,239,WT01-4-239,Petroglyph,Pecked,Not applicable,Non-Figurative,Geometric,Crescent,1,No
+WT01,4,240,WT01-4-240,Petroglyph,Pecked,Not applicable,Non-Figurative,Geometric,Crescent,1,No
+WT01,4,241,WT01-4-241,Petroglyph,Pecked,Not applicable,Non-Figurative,Geometric,Complex lines,1,No
+WT01,4,242,WT01-4-242,Petroglyph,Pecked,Not applicable,Non-Figurative,Geometric,Complex lines,1,No
+WT01,4,243,WT01-4-243,Petroglyph,Pecked,Not applicable,Non-Figurative,Geometric,Complex lines,1,No
+WT01,4,244,WT01-4-244,Petroglyph,Pecked,Not applicable,Non-Figurative,Geometric,Complex lines,1,No
+WT01,4,245,WT01-4-245,Petroglyph,Pecked,Not applicable,Non-Figurative,Geometric,Complex lines,1,No
+WT01,4,246,WT01-4-246,Petroglyph,Pecked,Not applicable,Non-Figurative,Geometric,Vertical pit series,1,No
+WT01,4,247,WT01-4-247,Petroglyph,Pecked,Not applicable,Non-Figurative,Geometric,Complex lines,1,No
+WT01,4,248,WT01-4-248,Petroglyph,Pecked,Not applicable,Non-Figurative,Geometric,Pit,1,No
+WT01,4,249,WT01-4-249,Pictograph,Infilled or solid,Brown,Non-Figurative,Geometric,Star,,No
+WT01,4,250,WT01-4-250,Pictograph,Infilled or solid,Brown,Track,Tracks,Bird track,,Yes
+WT01,4,251,WT01-4-251,Pictograph,Infilled or solid,Brown,Non-Figurative,Geometric,Line horizontal,,Yes
+WT01,4,252,WT01-4-252,Pictograph,Infilled or solid,Brown,Non-Figurative,Geometric,Complex lines,,Yes
+WT01,4,253,WT01-4-253,Pictograph,Infilled or solid,Brown,Non-Figurative,Geometric,Complex geometric,,No
+WT01,4,254,WT01-4-254,Pictograph,Infilled or solid,Brown,Non-Figurative,Geometric,Complex lines,,No
+WT01,4,255,WT01-4-255,Pictograph,Infilled or solid,Brown,Non-diagnostic,Non-diagnostic,Non-diagnostic,,No
+WT01,4,256,WT01-4-256,Pictograph,Infilled or solid,Brown,Non-Figurative,Geometric,Complex lines,,Yes
+WT01,5,257,WT01-5-257,Pictograph,Outline,Brown,Non-Figurative,Geometric,Complex lines,,No
+WT01,5,258,WT01-5-258,Pictograph,Infilled or solid,Brown,Non-Figurative,Geometric,Star,,No
+CH02,2,259,CH02-2-259,Pictograph,Infilled or solid,Brown,Figurative,Zoomorph,Non-diagnostic,,Yes
+CH02,2,260,CH02-2-260,Pictograph,Infilled or solid,Brown,Figurative,Human,Non-diagnostic,,Yes
+>>>>>>> 0b5b893fb97fd15596f2722a2b9e41d391451ab9
 CH02,2,261,CH02-2-261,Pictograph,Infilled or solid,Brown,Figurative,Human,Non-diagnostic,,Yes
