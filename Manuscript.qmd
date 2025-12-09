@@ -46,7 +46,19 @@ CHECK
 
 # 2) Methods
 
+In doingso, we have embraced reproducibility as a goal of our work, in order to move beyond 'point and click' analysis workflows which obscure many decisions made by researchers. As @marwickComputationalReproducibilityArchaeological2017 [p. 425] states:
+
+> The typical contemporary journal article describing the results of an archaeological study rarely contains enough information for another archaeologist to reproduce its statistical results and figures. Raw data are rarely openly and fully provided, perhaps due to the absence of data-sharing standards that acknowledge the sensitive nature of much of our data. Similarly, many of the decisions made in cleaning, tidying, analyzing, and visualizing the data are unrecorded and unreported.
+
+In the past decade, significance advances in computational approaches and workflows have been made, and this paper seeks to apply some of these to the analysis of an assemblage of rock art motifs from the study area. W
+
 Describe the methods used to create the dataset (ca. 100-200 words), including the following sub-headings:
+
+Following the completion of an initial research thesis [@marshallFormalAnalysisRock2018a] using digital methods, described above, it was necessary to reproduce and refine initial classifications in order to publish our results. This was While that research had adhered to a relatively clear approach in the classification, the figures, tables and statistical analyses were not. Hence, at this time, Morrison completely re-analysed the original dataset and in doing so sought to adopt an explicit approach of reproducibility, including through use of a workflow built on both *R* [@rcoreteamLanguageEnvironmentStatistical2024] and *Quarto*, an open source technical writing system [@allaireQuarto2022]. This involved developing three extensive computational scripts to process, clean and present the original tabular data, and to render output documents in formats required for AA. These computational scripts have been made openly available together with the source code for the production of this manuscript, figures and tables and appendices [@morrisonRockArtAnalysis2024], drawing heavily on reproducible methods [after @theturingwaycommunityTuringWayHandbook2024].
+
+. Making our schema accessible and analytical steps clear was a major reasons for embracing reporducible methods here: rather than the common practice of reporting summary statistics or statistical results.
+
+Finally, to mitigate issues around bias and small sample size, we used use statistical tests to assess the relationship between motif general and specific type and site location. Using R, we examined the relationship between site and motif categories using Pearson’s chi-square tests with Monte Carlo p-values (*B* = 10,000). Data were split into painted and engraved subsets; infilled engravings were omitted due to very small counts. Significant associations (p \< 0.05) were found for paintings, general type (χ² = 85.00, p \< 0.0001), paintings, specific type (χ² = 121.80, p \< 0.0001), and Engravings—Specific Type (χ² = 32.44, p = 0.0346). No significant association was found for engravings, general type (χ² = 8.56, p = 0.143). We then conducted correspondence analysis on each subset [@leFactoMineRPackageMultivariate2008], with contribution biplots [@greenacreContributionBiplots2013] used to visualise and aid the interpretation of results.
 
 ***Steps***
 
