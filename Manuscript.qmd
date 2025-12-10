@@ -95,6 +95,8 @@ lease enter one or more from primary data, secondary data, processed data, inter
 
 E.g. ASCII, CSV, Autocad, EPS, JPEG, Excel, SQL, etc.
 
+![](images/clipboard-1227717430.png)
+
 ***Creation dates***
 
 The start and end dates of when the data was created (dd/mm/yyyy).
