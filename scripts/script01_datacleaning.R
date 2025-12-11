@@ -1,7 +1,7 @@
-# Rock Art Analysis Package -- script to clean raw / original dataset
-# Mick Morrison,  10 June 2025 updated
+# Rock Art Analysis Package -- Script 01 Data cleaning
+# Author: Mick Morrison
+# Version: 2 | Date: 2025-08-07
 
-# Environment and requirements
 # Load the required packages
 
 library(data.table)
@@ -10,7 +10,7 @@ library(tidyverse)
 library(officer)
 library(readxl)
 
-path <- "repo/KuukuIyuRockArtProject/data/"
+path <- "KuukuIyuRockArtProject/data/"
 
 # Read in and view the data
 
@@ -156,3 +156,4 @@ saveRDS(
   compress = FALSE,
   refhook = NULL
 )
+

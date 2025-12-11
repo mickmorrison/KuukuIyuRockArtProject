@@ -1,3 +1,26 @@
+<<<<<<< HEAD
+# R artifacts (non-reproducible)
+.Rhistory
+.RData
+.Rproj.user
+
+# Quarto outputs (rendered files)
+*.html
+*.pdf
+/.quarto/
+**/*.quarto_ipynb
+
+# renv (exclude cache, include lock file)
+renv/cache/
+renv/temp/
+
+# Rendered output folder (if using one)
+docs/
+
+# System files
+.DS_Store
+Thumbs.db
+=======
 # History files
 .Rhistory
 .Rapp.history
@@ -47,3 +70,4 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+>>>>>>> 0b5b893fb97fd15596f2722a2b9e41d391451ab9
